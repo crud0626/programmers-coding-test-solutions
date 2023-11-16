@@ -1,0 +1,1 @@
+const solution = (str_list, ex) => str_list.reduce((p, c) => p += c.includes(ex) ? "" : c,"");
