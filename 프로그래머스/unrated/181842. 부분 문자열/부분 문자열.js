@@ -1,0 +1,1 @@
+const solution = (str1, str2) => Number(str2.includes(str1));
